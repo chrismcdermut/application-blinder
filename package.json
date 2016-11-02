@@ -1,0 +1,23 @@
+{
+  "name": "application-blinder",
+  "version": "1.0.0",
+  "description": "\"This application helps you unbiasedly look at job applications by obscuring pictures and names\"",
+  "main": "content.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismcdermut/application-blinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismcdermut/application-blinder/issues"
+  },
+  "homepage": "https://github.com/chrismcdermut/application-blinder#readme"
+}
