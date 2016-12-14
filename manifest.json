@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+	"name": "App Blinder",
+	"version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://angel.co/*"],
+      "js": ["app.js"]
+    }
+  ]
+}

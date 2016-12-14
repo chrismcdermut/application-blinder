@@ -1,0 +1,28 @@
+{
+  "name": "application-blinder",
+  "version": "1.0.0",
+  "description": "\"This helps you look at applicatiosn unbiasedly\"",
+  "main": "content.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "chrome-extension-scripts": "^0.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismcdermut/application-blinder.git"
+  },
+  "author": "\"Chris McDermut\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismcdermut/application-blinder/issues"
+  },
+  "homepage": "https://github.com/chrismcdermut/application-blinder#readme",
+  "presets": ["latest"]
+}
